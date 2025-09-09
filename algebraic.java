@@ -30,5 +30,7 @@ public class algebraic{
             System.out.println("Enter the valid number for operation !");
         }
         System.out.println();
+        sc.close();
     }
+
 }
